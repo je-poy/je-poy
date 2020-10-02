@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![je-poy-cover-img](imgs/cover.jpeg)
 <!--
 **je-poy/je-poy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
