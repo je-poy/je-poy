@@ -1,6 +1,9 @@
 ## Ako si [Jepoy](https://github.com/je-poy)
 ![je-poy-cover-img](imgs/cover.jpeg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 📫 How to reach me: <br />
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="50" alt="Jeff's DEV Profile" />](https://dev.to/jepoy)
 <!--
