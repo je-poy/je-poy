@@ -2,7 +2,7 @@
 ![je-poy-cover-img](imgs/cover.jpeg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -45,16 +45,22 @@ Sunday       9 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs 21 mins       ████████████████████░░░░░   81.0% 
+JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 23 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+activity_2               4 hrs 54 mins       ██████████████████████░░░   90.99% 
+Unknown Project          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+Documents                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +81,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/je-poy/je-poy/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me: <br />
