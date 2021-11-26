@@ -45,18 +45,16 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-JavaScript               1 hr 20 mins        ████████████████████████░   98.87% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-school-management-system 1 hr 20 mins        ████████████████████████░   98.36% 
-serino_services          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,7 +75,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/je-poy/je-poy/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me: <br />
