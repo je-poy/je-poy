@@ -45,16 +45,19 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 hrs 11 mins       ███████████████░░░░░░░░░░   62.8% 
+JavaScript               1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   36.08% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 30 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+deeplink                 3 hrs 27 mins       ████████████████████████░   98.79% 
+suki-hub-server          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +78,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/je-poy/je-poy/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me: <br />
