@@ -8,7 +8,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 97.5 kB Used in GitHub's Storage 
+> 📦 97.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,7 +77,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/je-poy/je-poy/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me: <br />
