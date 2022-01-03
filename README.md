@@ -77,7 +77,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/je-poy/je-poy/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me: <br />
