@@ -2,7 +2,7 @@
 ![je-poy-cover-img](imgs/cover.jpeg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C419%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,7 +83,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/je-poy/je-poy/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 00:56:48 UTC
+ Last Updated on 15/08/2022 00:54:26 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me: <br />
