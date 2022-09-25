@@ -2,7 +2,7 @@
 ![je-poy-cover-img](imgs/cover.jpeg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C481%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C484%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 🏆 53 Contributions in the Year 2022
  > 
-> 📦 97.6 kB Used in GitHub's Storage 
+> 📦 97.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,7 +84,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/je-poy/je-poy/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2022 01:02:48 UTC
+ Last Updated on 25/09/2022 01:01:37 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me: <br />
